@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @suyash
-- 👀 I’m interested in Android , React.js and blockchain
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on React & BlockChain
+- 👀 I’m interested in Android , React.js.
 - 📫 How to reach me suyashm002@gmail.com
 
 <!---
